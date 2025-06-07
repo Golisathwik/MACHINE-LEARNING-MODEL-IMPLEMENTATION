@@ -80,3 +80,5 @@ This Spam Email Detection Project serves as an excellent foundation for understa
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/a7ac08d0-8cea-4161-abda-081959d00c74)
+
